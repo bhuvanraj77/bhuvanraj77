@@ -94,7 +94,7 @@ Passionate Software Developer • Continuous Learner • Future Software Enginee
 <h2 align="center">🐍 Contribution Flow</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bhuvanraj77/bhuvanraj77/output/snake.svg"/>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%">
 </p>
 
 <br>
