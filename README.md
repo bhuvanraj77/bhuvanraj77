@@ -75,17 +75,33 @@ Passionate Software Developer • Continuous Learner • Future Software Enginee
 <h2 align="center">📊 GitHub Overview</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhuvanraj77&show_icons=true&theme=tokyonight&hide_border=true" width="47%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvanraj77&layout=compact&theme=tokyonight&hide_border=true" width="47%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhuvanraj77&theme=github_dark" width="95%">
 </p>
 
 <br>
 
+<h2 align="center">🔥 Contribution Activity</h2>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bhuvanraj77&theme=github_dark" width="47%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bhuvanraj77&theme=github_dark&utcOffset=5.5" width="47%">
+</p>
 <!-- ================= TROPHIES ================= -->
 <h2 align="center">🏆 Achievements</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bhuvanraj77&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <img src="https://img.shields.io/badge/Repositories-Active-blue?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-green?style=for-the-badge&logo=opensourceinitiative">
+  <img src="https://img.shields.io/badge/Learning-DSA-orange?style=for-the-badge&logo=leetcode">
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-purple?style=for-the-badge">
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bhuvanraj77&style=for-the-badge&color=blue">
+  <img src="https://img.shields.io/github/followers/bhuvanraj77?style=for-the-badge&color=green">
+  <img src="https://img.shields.io/github/stars/bhuvanraj77?style=for-the-badge&color=yellow">
 </p>
 
 <br>
