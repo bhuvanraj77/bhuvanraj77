@@ -1,6 +1,6 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHV4NXlsa25icG5peHluMDZqYmhyNzRha2Zlb3JydzhmYnNkazBhZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wpmorACxfZJN6/giphy.gif" width="100%">
 </p>
 
 <h1 align="center">Hi 👋 I'm Bhuvanraj R</h1>
